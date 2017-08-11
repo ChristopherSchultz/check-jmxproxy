@@ -1,6 +1,10 @@
 # check-jmxproxy
 Nagios/Ichinga plug-in for obtaining samples from Tomcat's jmxproxy
 
+More information about Tomcat's jmxproxy can be found here:
+* http://tomcat.apache.org/tomcat-8.5-doc/manager-howto.html#Using_the_JMX_Proxy_Servlet
+* http://people.apache.org/~schultz/ApacheCon%20NA%202016/Monitoring%20Apache%20Tomcat%20with%20JMX.pdf
+
 Thie script is written in Perl.
 
 ## Perl Dependencies
